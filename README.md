@@ -1,2 +1,2 @@
-# Skillgun
-Skillgun is a website maintained by palle technologies for the operations of the training institute management which 
+# Skillgun student dashboard module
+Skillgun is a website maintained by palle technologies for the operations of the training institute management which includes several modules like placements,students,employees,operations etc.The purpose of this project is to automate the test cases of student module.As part of this project I have automated the student login,edit profile,edit contact page test cases.
